@@ -1,0 +1,20 @@
+body{
+    background-color: darkslategrey;
+}
+.container{
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red; */
+    flex-direction: column;
+}
+.textareaBox{
+    border: none;
+    padding: 0.7rem;
+    width: 30rem;
+}
+.contentData{
+    color: white;
+    /* border: 2px solid saddlebrown; */
+}
